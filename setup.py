@@ -111,7 +111,7 @@ REMOTE_MAVEN_PACKAGES = [
     ('com.beust', 'jcommander', '1.81'),
     ('commons-io', 'commons-io', '2.9.0'),
     ('org.apache.commons', 'commons-collections4', '4.4'),
-    ('commons-beanutils', 'commons-beanutils', '1.9.4'),
+    ('commons-beanutils', 'commons-beanutils', '1.9.3'),
     ('commons-collections', 'commons-collections', '3.2.2'),
     ('software.amazon.glue', 'schema-registry-serde', '1.0.2')
 ]
